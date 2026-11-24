@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1795470343 source:c:\users\m\onedrive\desktop\study\c++ tasks\task 3\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
